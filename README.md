@@ -1,1 +1,0 @@
-# adinackk.github.io
