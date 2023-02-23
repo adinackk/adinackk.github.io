@@ -7,7 +7,7 @@ if (empty($data['message']['chat']['id'])) {
 	exit();
 }
  
-define('TOKEN', '123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11');
+define('TOKEN', '6110346712:AAE8D1ek9AAdpaEmIt1w-hJC-zEYaL_51lc');
  
 // Функция вызова методов API.
 function sendTelegram($method, $response)
